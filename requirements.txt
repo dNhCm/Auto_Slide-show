@@ -1,0 +1,5 @@
+kivy
+Pillow
+ffpyplayer
+moviepy
+pyinstaller
