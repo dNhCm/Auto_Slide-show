@@ -1,0 +1,4 @@
+moviepy
+Pillow==9.5.0
+ffpyplayer
+pyinstaller
